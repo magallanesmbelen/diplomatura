@@ -1,0 +1,29 @@
+ 
+ body{
+    font-family: Verdana, sans-serif;
+    text-align: center;
+ }
+ h1{
+    color: #D9A404;
+ }
+ h2{
+    color: #92647C;
+ }
+ h3{
+    color: #BF7E04;
+ }
+ ul{
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+ol{
+    display: table; 
+    margin: auto;
+    text-align: left;
+}
+ .imagen{
+    display: block;
+    margin-left: auto;
+    margin: auto;
+ }
